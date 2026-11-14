@@ -1,0 +1,6 @@
+{
+  "name": "Chez Modoukpè — Import-Export, Dermocosmétique & Surprise Agency",
+  "description": "Boutique en ligne et catalogue de commande WhatsApp pour le Bénin et le Niger : import-export sur mesure, dermocosmétique, articles personnalisés et cadeaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
