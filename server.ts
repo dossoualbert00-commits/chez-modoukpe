@@ -17,7 +17,7 @@ import {
   updateRequestStatus,
   verifyPassword,
 } from './server/db.ts';
-import { RequestStatus } from './src/types/shop.ts';
+import type { RequestStatus } from './src/types/shop.ts';
 
 const PORT = 3000;
 const IS_PROD = process.env.NODE_ENV === 'production';

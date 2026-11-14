@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { SEED_PRODUCTS } from './seedProducts.ts';
-import { CustomerRequest, Product, RequestStatus } from '../src/types/shop.ts';
+import type { CustomerRequest, Product, RequestStatus } from '../src/types/shop.ts';
 
 interface AdminConfig {
   email: string;

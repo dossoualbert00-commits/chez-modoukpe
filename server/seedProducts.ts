@@ -1,4 +1,4 @@
-import { Product } from '../src/types/shop.ts';
+import type { Product } from '../src/types/shop.ts';
 
 const NOW = '2026-11-14T10:00:00.000Z';
 
